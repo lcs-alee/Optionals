@@ -12,7 +12,6 @@
  Is the result what you expected?
  
  */
-// Type your code below this line
 
 /*:
  

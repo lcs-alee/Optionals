@@ -15,7 +15,13 @@
  
  */
 // Type your code below this line
-
+var x : String?
+var y : String? = ""
+if x == y {
+    print("varibales are equal")
+} else {
+        print("varialbes NOT equal")
+}
 
 
 /*:
